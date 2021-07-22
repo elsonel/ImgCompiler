@@ -33,6 +33,7 @@ float TRANSPARENCY = 0.3;  //Trail transparency
 #### Executing program
 
 * Run application in Processing IDE.
+* Collect processed frames in /output dictionary.
 
 ## Help
 
