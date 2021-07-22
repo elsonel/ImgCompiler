@@ -2,7 +2,7 @@
 
 Overlays image frames to create a "Muybridge" styled composite.
 
-## Example
+## Examples
 
 Turn this:
 
@@ -21,7 +21,7 @@ Another Example:
 #### Setup
 
 * Put image frames into /input
-* Ensure image frames have transparent backgrounds and are named following the format 0001.png, 0002.png...
+* Ensure image frames have transparent backgrounds and are named following the format: 0001.png, 0002.png...
 * Adjust the following constants:
 ```
 int STARTFRAME = 1;        //Frame stats at 0001.png
