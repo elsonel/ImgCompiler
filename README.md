@@ -35,6 +35,6 @@ float TRANSPARENCY = 0.3;  //Trail transparency
 * Run application in Processing IDE.
 * Collect processed frames in /output dictionary.
 
-## Help
+## Issues
 
 If the program crashes due to limited memory, process input frames in chunks by adjusting the STARTFRAME and ENDFRAME variables.
