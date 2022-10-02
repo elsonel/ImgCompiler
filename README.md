@@ -1,4 +1,4 @@
-# Img Compiler
+# Muybridge Styled Img Compiler
 
 Overlays image frames to create a "Muybridge" styled composite.
 
